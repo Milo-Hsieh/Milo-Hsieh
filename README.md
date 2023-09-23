@@ -1,8 +1,10 @@
-### Hi there This is Milo Code👋
+### Hi There, This is Milo Code👋
 
 I'm a dedicated full-stack developer based in Toronto, currently pursuing a Computer Programming program at Humber while holding a Bachelor's degree in Science with a major in Electrical Engineering. Into Computer Programming was a challenging yet immensely rewarding transition.
 
 I thrive on the ever-evolving challenges of this dynamic field and am constantly motivated by the opportunities for learning and growth it offers. My GitHub repository showcases my passion for coding, with projects that reflect my commitment to mastering various aspects of software development and my enthusiasm for creating innovative solutions.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milo-Hsieh&langs_count=8)
 
 <!--
 **Milo-Hsieh/Milo-Hsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
